@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-09)
+## Unreleased (2025-08-27)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`167bba8`](https://github.com/stdlib-js/stdlib/commit/167bba841858a37cf5ca350365cf6a00980f17fb) - **chore:** fix keywords _(by Athan Reines)_
 -   [`8e09d4f`](https://github.com/stdlib-js/stdlib/commit/8e09d4fddbf753f1ef37c499ce7e85e5956e71ed) - **feat:** add `stats/base/ndarray/mean` [(#7820)](https://github.com/stdlib-js/stdlib/pull/7820) _(by Gururaj Gurram)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gururaj Gurram
 
 </section>
